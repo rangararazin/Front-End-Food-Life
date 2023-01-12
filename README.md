@@ -7,5 +7,5 @@
 # Tech Stack
 
 ## Front end : React, React Native, EXPO, Axios, Moment, CSS
-## BAck end : Node.js, Express.js, Firebase Authentication,Firestore noSQL DB,Jest
-## Planning and Communtion : Figma, TRello, Slack, Zoom 
+## Back end : Node.js, Express.js, Firebase Authentication,Firestore noSQL DB,Jest
+## Planning and Communication : Figma, Trello, Slack, Zoom 
